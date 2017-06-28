@@ -1,4 +1,4 @@
-package guame.rmtctrl;
+package guame.rmtctrl.service;
 
 /**
  * Created by guam on 28.06.2017.
